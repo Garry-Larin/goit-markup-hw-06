@@ -729,7 +729,6 @@ body {
   transition: border-color var(--animation);
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
-  margin-bottom: 20px;
 }
 
 .modal-form-message:focus {
@@ -882,4 +881,8 @@ body {
 
 .contract {
   color: var(--accent-color);
+}
+
+.modal-form-field-text-area {
+  margin-bottom: 20px;
 }
